@@ -1,0 +1,10 @@
+id: YDP200B001-V9
+category: displays
+size: "2"
+panel: tft
+resolution: 480x360
+interface: [mipi]
+driver: ST7701S
+touch: null
+outline: 45.8 x 40.2 x 2.2 mm
+active_area: 40.82 x 30.62 mm
